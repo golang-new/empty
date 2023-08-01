@@ -17,5 +17,5 @@ gonew github.com/golang-new/empty "domain.com/project-name"
 #### The specific version
 
 ```bash
-gonew github.com/golang-new/empty@v1.16 "domain.com/project-name"
+gonew github.com/golang-new/empty@1.16 "domain.com/project-name"
 ```
